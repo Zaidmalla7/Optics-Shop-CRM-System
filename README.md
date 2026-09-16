@@ -11,13 +11,18 @@ A comprehensive, production-ready Customer Relationship Management (CRM) system 
 
 ## 📸 Screenshots
 
-| Login Page | Dashboard |
-|:---:|:---:|
-| <img src="[ضع رابط صورة تسجيل الدخول هنا]" width="400" alt="Login Page"> | <img src="[ضع رابط صورة الداشبورد هنا]" width="400" alt="Dashboard"> |
+| Login Page | 
+ <img width="1915" height="928" alt="Screenshot 2026-09-16 170013" src="https://github.com/user-attachments/assets/bb4afae1-94c3-461e-84bd-91f4e3f3721d" />
+ Dashboard |
+ <img width="1884" height="959" alt="Screenshot 2026-09-16 170140" src="https://github.com/user-attachments/assets/d3a25151-6351-4a7c-a94e-a3e127987c3f" />
+
+|
 
 | Patients & Products/Examinations Management |
 |:---:|
-| <img src="[ضع رابط صورة المنتجات أو الفحوصات هنا]" width="800" alt="Patients Management"> |
+| <img width="1902" height="928" alt="Screenshot 2026-09-16 170518" src="https://github.com/user-attachments/assets/57a70781-cf50-4885-a62b-4a0dcd60f290" /> |
+| <img width="1896" height="943" alt="Screenshot 2026-09-16 171014" src="https://github.com/user-attachments/assets/b5d240d0-3644-40a6-83e1-5db8b7649844" /> |
+|<img width="889" height="969" alt="Screenshot 2026-09-16 171145" src="https://github.com/user-attachments/assets/8c73f601-6e1f-42ab-a24f-086fa8bf29e2" />   |
 
 ---
 
@@ -42,14 +47,12 @@ A comprehensive, production-ready Customer Relationship Management (CRM) system 
 * LINQ[cite: 1]
 
 **Frontend:**
-* Razor Pages[cite: 1]
-* HTML5, CSS3, JavaScript[cite: 1]
-* Bootstrap 5 & FontAwesome[cite: 1]
-* jQuery, AJAX, DataTables, SweetAlert2, Select2[cite: 1]
+* Razor Pages
+* HTML5, CSS3, JavaScript
+* Bootstrap 5 & FontAwesome
+*  AJAX, DataTables, SweetAlert2, Select2
 
-**Database & Hosting:**
-* Microsoft SQL Server[cite: 1]
-* IIS Shared Hosting (SmarterASP.NET)
+
 
 ---
 
